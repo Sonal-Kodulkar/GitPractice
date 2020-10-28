@@ -64,7 +64,7 @@ public class UserInfoService {
 
     public void sample()
     {
-
+        System.out.println("hello");
     }
 }
 
