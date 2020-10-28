@@ -62,9 +62,10 @@ public class UserInfoService {
           return null;
     }
 
-    public void sample()
+    public void display()
     {
 
     }
-}
+
+    }
 
